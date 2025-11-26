@@ -1,6 +1,9 @@
 #Addition function
 def add(a,b):
     return a + b
-# suntraction function
+# subtraction function
 def substract(a,b):
     return a - b
+# Multiplication function
+def maultply(a,b):
+    return a * b
